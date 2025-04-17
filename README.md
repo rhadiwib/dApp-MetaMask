@@ -2,7 +2,7 @@
 
 A decentralized application that serves as a price widget for dApp, providing real-time cryptocurrency price data in a clean, responsive interface with wallet connectivity.
 
-![[MetaMask](https://raw.githubusercontent.com/rhadiwib/dApp-MetaMask/refs/heads/main/assets/MetaMask.png]()
+![MetaMask Logo](https://images.ctfassets.net/clixtyxoaeas/1ezuBGezqfIeifWdVtwU4c/d970d4cdf13b163efddddd5709164d2e/MetaMask-icon-Fox.svg "width=200")
 
 ## Features
 
@@ -57,6 +57,33 @@ The Home page displays a sortable table of cryptocurrencies with the following i
 - Current price in USD (formatted)
 
 Click on any column header to sort the table by that column.
+
+## 🌟 Features
+
+- **📊 Real-Time Price Tracking**  
+  View up-to-date cryptocurrency prices from the Energiswap API
+- **🗂️ Interactive Data Table**  
+  Sort tokens by name, symbol, or price with instant feedback
+- **🦊 MetaMask Integration**  
+  Connect your wallet to view balances in both native tokens and USD
+- **🌙 Theme Flexibility**  
+  Toggle between eye-friendly dark and light modes
+- **📱 Responsive Design**  
+  Optimized for all screen sizes from mobile to desktop
+
+## 🛠️ Technology Stack
+
+| Category           | Technology               | Purpose                                  |
+|--------------------|--------------------------|------------------------------------------|
+| **Framework**      | React + TypeScript       | Component-based UI development           |
+| **Build Tool**     | Vite                     | Lightning-fast development server        |
+| **State Management**| Zustand                 | Simple global state management           |
+| **Data Fetching**  | TanStack Query           | Efficient API data handling              |
+| **Web3**           | Wagmi + Viem            | Ethereum blockchain interactions         |
+| **Styling**        | Tailwind CSS            | Utility-first styling system             |
+| **UI Components**  | Shadcn/UI               | Accessible pre-built components          |
+| **Table Logic**    | TanStack Table          | Advanced data table functionality        |
+
 
 ### Wallet
 
