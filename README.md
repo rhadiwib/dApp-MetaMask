@@ -2,7 +2,7 @@
 
 A decentralized application that serves as a price widget for dApp, providing real-time cryptocurrency price data in a clean, responsive interface with wallet connectivity.
 
-![[MetaMask](https://github.com/rhadiwib/dApp-MetaMask/assets/MetaMask.png]()
+![[MetaMask](https://github.com/rhadiwib/dApp-MetaMask/blob/main/assets/MetaMask.png]()
 
 ## Features
 
